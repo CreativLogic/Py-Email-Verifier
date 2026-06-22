@@ -1,7 +1,8 @@
 #!/usr/bin/python
 #################################################################
-# Email Verifier v2.3											#
-# By: Dennis Linuz <dennismald@gmail.com>						#
+# Email Verifier v2.5											#
+# By: Vinnie Supreme <CreativLogic>						        #
+#
 # Verify if email addresses are valid by checking SMTP server   #
 #################################################################
 
