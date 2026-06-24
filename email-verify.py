@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 Email Verifier v3.0 — Free SMTP-Based Email Verification
-For Social Patter / Agentix outreach pipeline.
 
 Verifies emails using SMTP RCPT TO handshake (no sending, no external APIs).
 Layers: syntax → DNS/MX → SMTP → catch-all detection → scoring.
